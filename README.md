@@ -1,3 +1,3 @@
-# Sql-Powerbi-Projectt
+# Sql-Powerbi-Project
 
-HI,MY SELF ANAMIKA.
+
