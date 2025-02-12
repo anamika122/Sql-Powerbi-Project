@@ -1,11 +1,14 @@
-# Sql-Powerbi-Project
+# Finance Analysis of Bike Shop
 1. Overview
-The dashboard is for a bike shop, analyzing financial performance and rider data for 2021 and 2022.
+   
+The dashboard is for a bike shop, **analyzing financial performance and rider data for 2021 and 2022**.
+
 2. Key Metrics
 Revenue: $15M
- Profit: $10.45M
- Profit Margin: 0.45 (45%)
- Riders: 3M total, with a demographic split (18.83% casual, 81.17% registered riders).
+Profit: $10.45M
+Profit Margin: 0.45 (45%)
+Riders: 3M total, with a demographic split (18.83% casual, 81.17% registered riders).
+
 4. Performance Insights
 Most Profitable Time: Midday to early evening hours (10 AM to 3 PM).
 Seasonal Revenue Trends:
